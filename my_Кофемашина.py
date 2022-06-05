@@ -1,3 +1,5 @@
+# симулятор кофемашины
+
 import sys
 from PyQt5.QtWidgets import (QApplication, QDialog, QGroupBox, QLabel, QRadioButton,
                              QTextEdit, QLCDNumber, QPushButton, QGridLayout,
